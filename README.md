@@ -1,4 +1,4 @@
 <h1 align ="center"> Dev.David </h1>
 
-<img alt="projeto DevLinks" src="" width="100%">
+<img alt="projeto DevLinks" src="./techs/Capturar.PNG" width="100%">
  
